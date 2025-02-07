@@ -1,1 +1,1 @@
-# Some projects with details in notebooks..
+# Project details in notebooks
